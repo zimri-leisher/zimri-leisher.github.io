@@ -1,7 +1,7 @@
 # Zimri Leisher
 
-| [Github](https://github.com/zimri-leisher)| [LinkedIn](https://www.linkedin.com/in/zimri-leisher/)||
-|--|--|--|
+| [Github](https://github.com/zimri-leisher)| [LinkedIn](https://www.linkedin.com/in/zimri-leisher/)|
+|--|--|
 
 
 <p align="center">
