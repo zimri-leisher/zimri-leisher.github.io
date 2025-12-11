@@ -1,9 +1,14 @@
 # Zimri Leisher
+
 | [Github](https://github.com/zimri-leisher)| [LinkedIn](https://www.linkedin.com/in/zimri-leisher/)||
 |--|--|--|
+
+
 <p align="center">
 
 <img src="blue_ghost_console_profile_pic.png" alt="Thumbs up!" width="400"/>
+
+
 
 _Me, controlling a lunar lander_
 
