@@ -13,8 +13,7 @@
 
 </p>
 
-| [Github](https://github.com/zimri-leisher)| [LinkedIn](https://www.linkedin.com/in/zimri-leisher/)|
-|--|--|
+[Github](https://github.com/zimri-leisher)              [LinkedIn](https://www.linkedin.com/in/zimri-leisher/)
 
 * I started a master's degree in 2025 at the Unversity of Michigan, working on global climate models.
 * Previously, I worked in the space industry at Firefly Aerospace as a flight software engineer, where my code controlled rockets, orbital transfer vehicles and even landed on the surface of the moon.
